@@ -16,7 +16,7 @@ You can customise the styles to suit your needs.
 
 ````
 // Create the overlay
-var overlay = new Overbox();
+var overlay = new DBisso.Overbox();
 
 // use setContent method
 overlay.setContent('Some content for your overlay');
