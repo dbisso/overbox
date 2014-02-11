@@ -1,0 +1,27 @@
+{
+  "name": "overbox",
+  "main": "overbox.js",
+  "version": "0.1.0",
+  "authors": [
+    "Dan Bissonnet <dan@danisadesigner.com>"
+  ],
+  "description": "Simple overlay",
+  "keywords": [
+    "overlay",
+    "lightbox"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/dbisso/overbox",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "eventEmitter": "~4.2.*"
+  }
+}
